@@ -1,0 +1,16 @@
+{
+    "FirstName": "Breyona",
+    "LastName": "Taylor",
+    "Email": "sayhername@gmail.com",
+    "Adress": "777 Angel Drive",
+    "City": "Louisville",
+    "ZipCode": "5555",
+    "Phone": "123456789",
+    "CardNumber": "1234",
+    "CardHolder": "1234",
+    "Cvv":  "111",
+    "expM": "01",
+    "expY": "2000",
+    "DrinkNames": ["Cotton Candy","Toucan Fruit Slushy XL"],
+    "DrinkQuanity": [5,5]
+}
